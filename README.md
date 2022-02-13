@@ -1,4 +1,4 @@
 # covid-regression
-Regression Equation Implementation
+Regression Equations Implementation
 
-Regression calculated accordingly as its respective mathematical equations rather than using default python function.
+Regression calculated accordingly to its respective mathematical equations rather than using default python function.
